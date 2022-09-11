@@ -11,5 +11,5 @@ void multitable(int n)
 main()
 {
     multitable(2);
-    multitable(5);
+    //multitable(5);
 }
