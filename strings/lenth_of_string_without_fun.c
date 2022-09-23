@@ -15,4 +15,5 @@ main()
         count++;
     }
     printf("len of the string is:%d", count);
+
 }
